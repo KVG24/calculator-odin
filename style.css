@@ -65,6 +65,11 @@ button {
     gap: 10px;
 }
 
+.operator {
+    background-color: rgb(112, 92, 0);
+    color: white;
+}
+
 .btn-action {
     border: 2px solid rgb(78, 97, 158);
     border-radius: 10px;
