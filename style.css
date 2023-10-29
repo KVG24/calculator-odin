@@ -65,13 +65,8 @@ button {
     gap: 10px;
 }
 
-.operator {
-    background-color: rgb(112, 92, 0);
-    color: white;
-}
-
 .btn-action {
-    border: 2px solid rgb(78, 97, 158);
+    border: 2px solid rgb(255, 255, 255);
     border-radius: 10px;
     font-family: 'Courier New', Courier, monospace;
 }
@@ -83,7 +78,8 @@ button {
 }
 
 #delete {
-    background-color: rgb(141, 142, 173);
+    background-color: rgb(85, 88, 177);
+    color: white;
     font-size: 60px;
 }
 
@@ -103,4 +99,10 @@ button {
     border-radius: 10px;
     font-size: 70px;
     font-family: 'Major Mono Display', monospace;
+}
+
+.operator {
+    background-color: rgb(112, 92, 0);
+    color: white;
+    border: 2px solid white;
 }
